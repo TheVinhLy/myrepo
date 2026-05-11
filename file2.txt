@@ -1,1 +1,159 @@
-file được tạo trên github
+#EXTM3U x-tvg-url="" refresh="3600"
+#
+# Danh sách kênh IPTV Việt Nam - Cập nhật 2026
+# Nguồn: tổng hợp cộng đồng (FPT Play, VTV Prime,...)
+# Lưu ý: Các link stream có thể thay đổi theo thời gian
+#
+
+# ============================================================
+# 📺 NHÓM: VTV - Đài Truyền hình Việt Nam
+# ============================================================
+
+#EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="https://vn.xemtv.net/image/vtv1.png" group-title="VTV",VTV1 HD
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2" tvg-logo="https://vn.xemtv.net/image/vtv2.png" group-title="VTV",VTV2 HD
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3" tvg-logo="https://vn.xemtv.net/image/vtv3.png" group-title="VTV",VTV3 HD
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV4" tvg-name="VTV4" tvg-logo="https://vn.xemtv.net/image/vtv4.png" group-title="VTV",VTV4 HD
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://vn.xemtv.net/image/vtv5.png" group-title="VTV",VTV5 HD
+https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV5TNB" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="VTV",VTV5 Tây Nam Bộ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="VTV5TN" tvg-name="VTV5 Tây Nguyên" tvg-logo="https://vn.xemtv.net/image/vtv5-taynguyen.png" group-title="VTV",VTV5 Tây Nguyên
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="VTV7" tvg-name="VTV7" tvg-logo="https://vn.xemtv.net/image/vtv7.png" group-title="VTV",VTV7 HD
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="VTV8" tvg-name="VTV8" tvg-logo="https://vn.xemtv.net/image/vtv8.png" group-title="VTV",VTV8 HD
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV9" tvg-name="VTV9" tvg-logo="https://vn.xemtv.net/image/vtv9.png" group-title="VTV",VTV9 HD
+https://liveh12.vtvprime.vn/hls/VTV9_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="VTVCantho" tvg-name="VTV Cần Thơ" tvg-logo="https://vn.xemtv.net/image/vtvcantho.png" group-title="VTV",VTV Cần Thơ
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="VietnamToday" tvg-name="Vietnam Today" tvg-logo="https://vn.xemtv.net/image/vietnamtoday.png" group-title="VTV",Vietnam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+
+# ============================================================
+# 📺 NHÓM: HTV - Đài Truyền hình TP.HCM
+# ============================================================
+
+#EXTINF:-1 tvg-id="HTV1" tvg-name="HTV1" tvg-logo="https://vn.xemtv.net/image/htv1.png" group-title="HTV",HTV1
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HTV2" tvg-name="HTV2" tvg-logo="https://vn.xemtv.net/image/htv2.png" group-title="HTV",HTV2 HD
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HTV3" tvg-name="HTV3" tvg-logo="https://vn.xemtv.net/image/htv3.png" group-title="HTV",HTV3
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HTV4" tvg-name="HTV4" tvg-logo="https://vn.xemtv.net/image/htv4.png" group-title="HTV",HTV4
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HTV7" tvg-name="HTV7" tvg-logo="https://vn.xemtv.net/image/htv7.png" group-title="HTV",HTV7 HD
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="HTV9" tvg-name="HTV9" tvg-logo="https://vn.xemtv.net/image/htv9.png" group-title="HTV",HTV9 HD
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+
+# ============================================================
+# 📺 NHÓM: SCTV - Truyền hình cáp Saigon Tourist
+# ============================================================
+
+#EXTINF:-1 tvg-id="SCTV1" tvg-name="SCTV1" tvg-logo="http://www.sctv.com.vn/Media/KenhTrai/SCTV1HD.png" group-title="SCTV",SCTV1 HD
+http://vtsstr4.sctv.vn:1935/testlive1/sctv1_HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SCTV2" tvg-name="SCTV2" tvg-logo="http://www.sctv.com.vn/Media/KenhTrai/SCTV2HD.png" group-title="SCTV",SCTV2 HD
+http://vtsstr4.sctv.vn:1935/testlive1/sctv2_HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SCTV3" tvg-name="SCTV3" tvg-logo="http://www.sctv.com.vn/Media/KenhTrai/SCTV3HD.png" group-title="SCTV",SCTV3 HD
+http://vtsstr4.sctv.vn:1935/testlive1/sctv3_HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SCTV4" tvg-name="SCTV4 Let's Viet" tvg-logo="http://www.sctv.com.vn/Media/KenhTrai/SCTV4HD.png" group-title="SCTV",SCTV4 Let's Viet
+http://vtsstr4.sctv.vn:1935/testlive1/sctv4_HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SCTV6" tvg-name="SCTV6" tvg-logo="http://www.sctv.com.vn/Media/KenhTrai/SCTV6HD.png" group-title="SCTV",SCTV6 HD
+https://live.fptplay53.net/fnxhd2/sctv6_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SCTV14" tvg-name="SCTV14" tvg-logo="http://www.sctv.com.vn/Media/KenhTrai/SCTV14HD.png" group-title="SCTV",SCTV14 HD
+http://vtsstr4.sctv.vn:1935/testlive1/sctv14_HD.smil/playlist.m3u8
+
+# ============================================================
+# 📺 NHÓM: VTC - Đài Truyền hình Kỹ thuật số VTC
+# ============================================================
+
+#EXTINF:-1 tvg-id="VTC1" tvg-name="VTC1" tvg-logo="https://vn.xemtv.net/image/vtc1.png" group-title="VTC",VTC1 HD
+https://cdn1.vtcnow.vn/live/eds/VTC1HD_1/hlsv3/VTC1HD_1-audio_20000=212400-video=2126800.m3u8
+
+#EXTINF:-1 tvg-id="VTC2" tvg-name="VTC2" tvg-logo="https://vn.xemtv.net/image/vtc2.png" group-title="VTC",VTC2 HD
+https://cdn1.vtcnow.vn/live/eds/VTC2_1/hlsv3/VTC2_1-audio_20000=212400-video=2126800.m3u8
+
+#EXTINF:-1 tvg-id="VTC3" tvg-name="VTC3" tvg-logo="https://vn.xemtv.net/image/vtc3.png" group-title="VTC",VTC3
+https://cdn1.vtcnow.vn/live/eds/VTC3_1/hlsv3/VTC3_1-audio_20000=212400-video=1275600.m3u8
+
+#EXTINF:-1 tvg-id="VTC4" tvg-name="VTC4" tvg-logo="https://vn.xemtv.net/image/vtc4.png" group-title="VTC",VTC4
+https://cdn1.vtcnow.vn/live/eds/VTC4_4/hlsv3/VTC4_4-audio_20000=212400-video=1275600.m3u8
+
+#EXTINF:-1 tvg-id="VTC7" tvg-name="VTC7" tvg-logo="https://vn.xemtv.net/image/vtc7.png" group-title="VTC",VTC7
+https://cdn1.vtcnow.vn/live/eds/VTC7_4/hlsv3/VTC7_4-audio_20000=212400-video=1275600.m3u8
+
+#EXTINF:-1 tvg-id="VTC9" tvg-name="VTC9" tvg-logo="https://vn.xemtv.net/image/vtc9.png" group-title="VTC",VTC9
+https://cdn1.vtcnow.vn/live/eds/VTC9_4/hlsv3/VTC9_4-audio_20000=212400-video=1275600.m3u8
+
+# ============================================================
+# 📺 NHÓM: THVL - Đài Truyền hình Vĩnh Long
+# ============================================================
+
+#EXTINF:-1 tvg-id="THVL1" tvg-name="THVL1" tvg-logo="https://vn.xemtv.net/image/vinhlong1.png" group-title="THVL",THVL1 HD
+https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="THVL2" tvg-name="THVL2" tvg-logo="https://vn.xemtv.net/image/vinhlong2.png" group-title="THVL",THVL2 HD
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="THVL3" tvg-name="THVL3" tvg-logo="https://vn.xemtv.net/image/vinhlong3.png" group-title="THVL",THVL3 HD
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="THVL4" tvg-name="THVL4" tvg-logo="https://vn.xemtv.net/image/vinhlong4.png" group-title="THVL",THVL4 HD
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+
+# ============================================================
+# 📺 NHÓM: Kênh địa phương & khác
+# ============================================================
+
+#EXTINF:-1 tvg-id="HanoiTV1" tvg-name="Hà Nội TV1" tvg-logo="https://vn.xemtv.net/image/hanoi1.png" group-title="Địa phương",Hà Nội TV1
+https://live.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HanoiTV2" tvg-name="Hà Nội TV2" tvg-logo="https://vn.xemtv.net/image/hanoi2.png" group-title="Địa phương",Hà Nội TV2
+https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://vn.xemtv.net/image/antv.png" group-title="Địa phương",ANTV HD
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="QPVN" tvg-name="QPVN" tvg-logo="https://vn.xemtv.net/image/qpvn.png" group-title="Địa phương",QPVN HD
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="BRT" tvg-name="BRT (BR-VT)" tvg-logo="https://vn.xemtv.net/image/brt-logo.png" group-title="Địa phương",BRT Bà Rịa - Vũng Tàu
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="BTV1" tvg-name="BTV1 Bình Dương" tvg-logo="https://vn.xemtv.net/image/binhduong1.png" group-title="Địa phương",BTV1 Bình Dương
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="QNgTV" tvg-name="QNgTV Quảng Ngãi" tvg-logo="https://vn.xemtv.net/image/qngtv.png" group-title="Địa phương",QNgTV Quảng Ngãi
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ATV1" tvg-name="ATV1 An Giang" tvg-logo="https://vn.xemtv.net/image/atv1.png" group-title="Địa phương",ATV1 An Giang
+https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ATV2" tvg-name="ATV2 An Giang" tvg-logo="https://vn.xemtv.net/image/atv2.png" group-title="Địa phương",ATV2 An Giang
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
