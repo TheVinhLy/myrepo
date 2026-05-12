@@ -55,7 +55,7 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" tvg-logo="https://vn.xemtv.net/image/htv2.png" group-title="🇻🇳 HTV",HTV2 HD
-https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
+https://liveh12.vtvprime.vn/hls/HTV2/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV2fpt.vn" tvg-name="HTV2 (dự phòng FPT)" tvg-logo="https://vn.xemtv.net/image/htv2.png" group-title="🇻🇳 HTV",HTV2 dự phòng
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
