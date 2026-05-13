@@ -25,7 +25,7 @@ https://liveh12.vtvprime.vn/hls/VTV9_HD/index.m3u8
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="VTVCantho.vn" group-title="VTV" tvg-logo="https://vn.xemtv.net/image/vtvcantho.png",VTV Cần Thơ
+#EXTINF:-1 tvg-id="VTVCantho.vn" tvg-name="VTV Cần Thơ" tvg-logo="https://vn.xemtv.net/image/vtvcantho.png" group-title="VTV",VTV Cần Thơ
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
