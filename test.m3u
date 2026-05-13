@@ -1,0 +1,152 @@
+#EXTM3U x-tvg-url="" refresh="3600"
+#
+# ╔══════════════════════════════════════════════════════════╗
+# ║   FILE TEST - VTC / SCTV còn thiếu / VTVcab             ║
+# ║   Nguồn: thvip.site (slug) + freem3u.xyz (vid ID)       ║
+# ║   Bạn test từng kênh, báo lại cái nào xem được          ║
+# ╚══════════════════════════════════════════════════════════╝
+
+# ============================================================
+# 📺 VTC - thvip.site slug (từ repo tchiphuong/iptv)
+# ============================================================
+
+#EXTINF:-1 tvg-id="vtc1" tvg-name="VTC1" tvg-logo="https://i.imgur.com/tgkpwcNm.png" group-title="🔍 VTC thvip",VTC1 [thvip-slug]
+https://thvip.site/vtc1/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc2" tvg-name="VTC2" tvg-logo="https://i.imgur.com/W3fjbJKG.png" group-title="🔍 VTC thvip",VTC2 [thvip-slug]
+https://thvip.site/vtc2/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc3" tvg-name="VTC3" tvg-logo="https://i.imgur.com/NF9tyjqW.png" group-title="🔍 VTC thvip",VTC3 [thvip-slug]
+https://thvip.site/vtc3/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc4" tvg-name="VTC4" tvg-logo="https://i.imgur.com/C53gbpwd.png" group-title="🔍 VTC thvip",VTC4 Yeah1 [thvip-slug]
+https://thvip.site/vtc4/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc5" tvg-name="VTC5" tvg-logo="https://vn.xemtv.net/image/vtc5.png" group-title="🔍 VTC thvip",VTC5 [thvip-slug]
+https://thvip.site/vtc5/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc7today" tvg-name="VTC7 TodayTV" tvg-logo="https://vn.xemtv.net/image/vtc7.png" group-title="🔍 VTC thvip",VTC7 TodayTV [thvip-slug]
+https://thvip.site/today/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc9" tvg-name="VTC9" tvg-logo="https://vn.xemtv.net/image/vtc9.png" group-title="🔍 VTC thvip",VTC9 [thvip-slug]
+https://thvip.site/vtc9/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc10" tvg-name="VTC10 NetViet" tvg-logo="https://i.imgur.com/PaVbyxg.png" group-title="🔍 VTC thvip",VTC10 NetViet [thvip-slug]
+https://thvip.site/vtc10/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc14" tvg-name="VTC14" tvg-logo="https://i.imgur.com/phXvB0t.png" group-title="🔍 VTC thvip",VTC14 [thvip-slug]
+https://thvip.site/vtc14/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc16" tvg-name="VTC16" tvg-logo="https://i.imgur.com/rltq2Dy.png" group-title="🔍 VTC thvip",VTC16 [thvip-slug]
+https://thvip.site/vtc16/index.m3u8
+
+# ============================================================
+# 📺 VTC - thvip.site ID (360/ID - từ tchiphuong/iptv)
+# ============================================================
+
+#EXTINF:-1 tvg-id="vtc3-360" tvg-name="VTC3" tvg-logo="https://i.imgur.com/NF9tyjqW.png" group-title="🔍 VTC 360ID",VTC3 [360/197]
+https://thvip.site/360/197/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc7-360" tvg-name="VTC7 TodayTV" tvg-logo="https://vn.xemtv.net/image/vtc7.png" group-title="🔍 VTC 360ID",VTC7 TodayTV [360/201]
+https://thvip.site/360/201/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc10-360" tvg-name="VTC10 NetViet" tvg-logo="https://i.imgur.com/PaVbyxg.png" group-title="🔍 VTC 360ID",VTC10 NetViet [360/204]
+https://thvip.site/360/204/index.m3u8
+
+# ============================================================
+# 📺 VTC - freem3u.xyz (vid ID)
+# ============================================================
+
+#EXTINF:-1 tvg-id="vtc1-free" tvg-name="VTC1" tvg-logo="https://i.imgur.com/tgkpwcNm.png" group-title="🔍 VTC freem3u",VTC1 [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=193
+
+#EXTINF:-1 tvg-id="vtc3-free" tvg-name="VTC3" tvg-logo="https://i.imgur.com/NF9tyjqW.png" group-title="🔍 VTC freem3u",VTC3 [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=195
+
+#EXTINF:-1 tvg-id="vtc7-free" tvg-name="VTC7 TodayTV" tvg-logo="https://vn.xemtv.net/image/vtc7.png" group-title="🔍 VTC freem3u",VTC7 TodayTV [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=199
+
+#EXTINF:-1 tvg-id="vtc10-free" tvg-name="VTC10" tvg-logo="https://i.imgur.com/PaVbyxg.png" group-title="🔍 VTC freem3u",VTC10 [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=202
+
+# ============================================================
+# 📺 SCTV còn thiếu - thvip.site slug
+# ============================================================
+
+#EXTINF:-1 tvg-id="sctv5-thvip" tvg-name="SCTV5 SCJ" tvg-logo="https://i.postimg.cc/pXL8SNQ3/SCJ_TV_SHOPPING.png" group-title="🔍 SCTV thiếu",SCTV5 SCJ [thvip]
+https://thvip.site/sctv5/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv9-thvip" tvg-name="SCTV9" tvg-logo="https://i.postimg.cc/T2LTn4qj/sctv9hd.png" group-title="🔍 SCTV thiếu",SCTV9 [thvip]
+https://thvip.site/sctv9/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv15-thvip" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/nKAF1ZO.png" group-title="🔍 SCTV thiếu",SCTV15 [thvip]
+https://thvip.site/sctv15/index.m3u8
+
+# ============================================================
+# 📺 SCTV còn thiếu - freem3u.xyz
+# ============================================================
+
+#EXTINF:-1 tvg-id="sctv5-free" tvg-name="SCTV5 SCJ" tvg-logo="https://i.postimg.cc/pXL8SNQ3/SCJ_TV_SHOPPING.png" group-title="🔍 SCTV thiếu",SCTV5 SCJ [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=68
+
+#EXTINF:-1 tvg-id="sctv9-free" tvg-name="SCTV9" tvg-logo="https://i.postimg.cc/T2LTn4qj/sctv9hd.png" group-title="🔍 SCTV thiếu",SCTV9 [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=72
+
+#EXTINF:-1 tvg-id="sctv15-free" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/nKAF1ZO.png" group-title="🔍 SCTV thiếu",SCTV15 [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=78
+
+# ============================================================
+# 📺 VTVcab / ON TV - freem3u.xyz (từ kupjta/iptv)
+# ============================================================
+
+#EXTINF:-1 tvg-id="onviegiaitri" tvg-name="ON Vie Giải Trí" tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="🔍 VTVcab",ON Vie Giải Trí [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+
+#EXTINF:-1 tvg-id="onphimviet" tvg-name="ON Phim Việt" tvg-logo="https://i.imgur.com/MPNlpzb.png" group-title="🔍 VTVcab",ON Phim Việt [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=175
+
+#EXTINF:-1 tvg-id="onmovies" tvg-name="ON Movies" tvg-logo="https://i.imgur.com/765Y3jw.png" group-title="🔍 VTVcab",ON Movies [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+
+#EXTINF:-1 tvg-id="onechannel" tvg-name="ON E Channel" tvg-logo="https://i.imgur.com/87JEXEQ.png" group-title="🔍 VTVcab",ON E Channel [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+
+#EXTINF:-1 tvg-id="ono2tv" tvg-name="ON O2TV" tvg-logo="https://i.imgur.com/nqwVkmM.png" group-title="🔍 VTVcab",ON O2TV [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+
+#EXTINF:-1 tvg-id="onbibi" tvg-name="ON BiBi" tvg-logo="https://i.imgur.com/YFmPo7l.png" group-title="🔍 VTVcab",ON BiBi [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+
+#EXTINF:-1 tvg-id="oninfotv" tvg-name="ON Info TV" tvg-logo="https://i.imgur.com/jp57P0v.png" group-title="🔍 VTVcab",ON Info TV [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+
+#EXTINF:-1 tvg-id="oncine" tvg-name="ON Cine" tvg-logo="https://i.imgur.com/6f9ngwY.png" group-title="🔍 VTVcab",ON Cine [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+
+#EXTINF:-1 tvg-id="onstyle" tvg-name="ON Style TV" tvg-logo="https://i.imgur.com/6LQ0Z1O.png" group-title="🔍 VTVcab",ON Style TV [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+
+#EXTINF:-1 tvg-id="onmusic" tvg-name="ON Music" tvg-logo="https://i.imgur.com/45BXPY3.png" group-title="🔍 VTVcab",ON Music [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+
+#EXTINF:-1 tvg-id="onfansipan" tvg-name="ON Fansipan (VCTV1)" tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="🔍 VTVcab",ON Fansipan [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=173
+
+#EXTINF:-1 tvg-id="onddramas" tvg-name="ON D-Dramas (VCTV7)" tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="🔍 VTVcab",ON D-Dramas [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+
+#EXTINF:-1 tvg-id="ontrending" tvg-name="ON Trending TV" tvg-logo="https://i.imgur.com/hHYzxmS.png" group-title="🔍 VTVcab",ON Trending TV [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+
+#EXTINF:-1 tvg-id="onsportaction" tvg-name="ON Sport Action" tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="🔍 VTVcab",ON Sport Action (BTV5) [freem3u]
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+
+# ============================================================
+# 📺 VTVcab - thvip.site 360/ID
+# ============================================================
+
+#EXTINF:-1 tvg-id="onvie-360" tvg-name="ON Vie Giải Trí" tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="🔍 VTVcab 360",ON Vie Giải Trí [360/180]
+https://thvip.site/360/180/index.m3u8
+
+#EXTINF:-1 tvg-id="htvcplus-360" tvg-name="HTVC Plus" tvg-logo="https://i.imgur.com/K2tfJM6.png" group-title="🔍 VTVcab 360",HTVC Plus [360/132]
+https://thvip.site/360/132/index.m3u8
