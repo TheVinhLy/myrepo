@@ -17,7 +17,7 @@ http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV7/index.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/1Z8k49W/logo26072108-sctv8.png",SCTV8
 https://liveh34.vtvprime.vn/hls/SCTV8/index.m3u8
-#EXTINF:-1 tvg-id="SCTV10.vn" tvg-name="SCTV10" tvg-logo="https://i.imgur.com/TQF3Wf2.png" group-title="SCTV",SCTV10 ✅
+#EXTINF:-1 tvg-id="SCTV10.vn" tvg-name="SCTV10" tvg-logo="https://i.imgur.com/TQF3Wf2.png",SCTV10 ✅
 https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",SCTV11
 https://liveh34.vtvprime.vn/hls/SCTV11/index.m3u8
@@ -58,13 +58,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=91
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 https://liveh12.vtvprime.vn/hls/HTV2/index.m3u8
-#EXTINF:-1 tvg-id="HTV2fpt.vn" tvg-name="HTV2 (dự phòng FPT)" tvg-logo="https://vn.xemtv.net/image/htv2.png" group-title="HTV",HTV2 dự phòng
+#EXTINF:-1 tvg-id="HTV2fpt.vn" tvg-name="HTV2 (dự phòng FPT)" tvg-logo="https://vn.xemtv.net/image/htv2.png",HTV2 dự phòng
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://vn.xemtv.net/image/htv4.png" group-title="HTV",HTV4
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://vn.xemtv.net/image/htv4.png",HTV4
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv5" tvg-logo="https://vnepg.site/logos/85.png",HTV5 Bchannel
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
@@ -164,7 +164,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=8
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="VTVCantho.vn" tvg-name="VTV Cần Thơ" tvg-logo="https://vn.xemtv.net/image/vtvcantho.png" group-title="VTV",VTV Cần Thơ
+#EXTINF:-1 tvg-id="VTVCantho.vn" tvg-name="VTV Cần Thơ" tvg-logo="https://vn.xemtv.net/image/vtvcantho.png",VTV Cần Thơ
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
 
