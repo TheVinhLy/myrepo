@@ -179,6 +179,20 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" tvg-logo="https://vnepg.site/logos/175.png",THVL5
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 
+#EXTINF:-1 tvg-id="VTC3 HD" group-title="VTC HD" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.42:30120
+#EXTINF:-1 tvg-id="VTC4 HD" group-title="VTC HD" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.43:30120
+#EXTINF:-1 tvg-id="VTC6 HD" group-title="VTC HD" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.45:30120
+#EXTINF:-1 tvg-id="VTC9 HD" group-title="VTC HD" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.48:30120
+#EXTINF:-1 tvg-id="VTC10 HD" group-title="VTC HD" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.49:30120
+#EXTINF:-1 tvg-id="VTC14 HD" group-title="VTC HD" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.53:30120
+#EXTINF:-1 tvg-id="VTC16 HD" group-title="VTC HD" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.54:30120
 
 #EXTINF:-1 group-title="Quê Choa TV" tvg-logo="https://quechoatv2.net/assets/logo-quechoatv-brand.png", BLV Nem Chua
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
@@ -373,14 +387,3 @@ http://dinhdong.ddns.net:13579/udp/225.1.4.20:30120
 http://dinhdong.ddns.net:13579/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
 http://dinhdong.ddns.net:13579/udp/225.1.4.183:30120
-#-------------------K+-------------------#
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
-http://dinhdong.ddns.net:13579/udp/225.1.1.6:30120
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
-http://dinhdong.ddns.net:13579/udp/225.1.1.5:30120
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
-http://dinhdong.ddns.net:13579/udp/225.1.1.76:30120
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
-http://dinhdong.ddns.net:13579/udp/225.1.1.73:30120
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
-http://dinhdong.ddns.net:13579/udp/225.1.1.77:30120
