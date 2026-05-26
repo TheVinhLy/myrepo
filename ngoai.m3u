@@ -53,8 +53,8 @@ https://hoiquan.dpdns.org/VTVGo/?sctv20
 # https://liveh34.vtvprime.vn/hls/SCTV21/index.m3u8
 https://hoiquan.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/JK0TF38/sctv22-hd.png",SCTV22
-https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
-# https://hoiquan.dpdns.org/VTVGo/?sctv22
+# https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv22
 #EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png",SCTV Phim tổng hợp
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 
