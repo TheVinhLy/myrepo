@@ -183,6 +183,21 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTVCantho.vn" tvg-name="VTV Cần Thơ" tvg-logo="https://vn.xemtv.net/image/vtvcantho.png",VTV Cần Thơ
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="VTC3 HD" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.42:30120
+#EXTINF:-1 tvg-id="VTC4 HD" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.43:30120
+#EXTINF:-1 tvg-id="VTC6 HD" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.45:30120
+#EXTINF:-1 tvg-id="VTC9 HD" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.48:30120
+#EXTINF:-1 tvg-id="VTC10 HD" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.49:30120
+#EXTINF:-1 tvg-id="VTC14 HD" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.53:30120
+#EXTINF:-1 tvg-id="VTC16 HD" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD (HD 4Mbps)
+http://dinhdong.ddns.net:13579/udp/225.1.4.54:30120
+
 
 #EXTINF:-1 tvg-id="tvbvn" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
