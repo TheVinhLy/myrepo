@@ -159,11 +159,12 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=169
 
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://ec01-pop5-hht.tv360.vn/bpk-token/grcogrhg3xnuigpvb6gtkrhdiq2ejy2e/bpk-tv/155/output/155-audio_198800_eng_iv_4=196800-video_iv_4=6525600.m3u8
 https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
@@ -173,6 +174,8 @@ https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV6
+https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
