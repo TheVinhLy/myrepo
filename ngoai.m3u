@@ -64,11 +64,11 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://i.imgur.com/pTVybK6.png", THVL1
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://i.imgur.com/MsHdGNZ.png", THVL2
 https://live.fptplay53.net/epzhd2/vinhlong2_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://i.imgur.com/44c1Yoz.png", THVL3
-https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://i.imgur.com/JWDsJxB.png", THVL4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" tvg-logo="https://vnepg.site/logos/175.png", THVL5
@@ -77,8 +77,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://i.imgur.com/KEMSBD3.png", HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://i.imgur.com/Yc3cmAi.png", HTV2
-https://liveh12.vtvprime.vn/hls/HTV2/index.m3u8
-#EXTINF:-1 tvg-id="HTV2fpt.vn" tvg-name="HTV2 (dự phòng FPT)" tvg-logo="https://vn.xemtv.net/image/htv2.png", HTV2 dự phòng
+https://kupjta.online/iptv/3/vie-channel-htv2-hd/index.m3u8
+#EXTINF:-1 tvg-id="HTV2fpt.vn" tvg-logo="https://vn.xemtv.net/image/htv2.png", HTV2 dự phòng
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.imgur.com/2iE01Ca.png", HTV3
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
