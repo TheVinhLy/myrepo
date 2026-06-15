@@ -71,10 +71,9 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://i.imgur.com/pTVybK6.png", THVL1
-https://HaNoiIPTV.short.gy/HaNoiIPTV-THVL1_HD
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_3800000=10000-mp4a_131600=20000.m3u8
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://i.imgur.com/MsHdGNZ.png", THVL2
 https://live.fptplay53.net/epzhd2/vinhlong2_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://i.imgur.com/44c1Yoz.png", THVL3
