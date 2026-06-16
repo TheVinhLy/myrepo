@@ -13,7 +13,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=201
 https://hoiquan.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 tvg-id="sctv4hd" tvg-logo="https://i.ibb.co/rHsWYhW/sctv4-hd.png", SCTV4
 https://hoiquan.dpdns.org/VTVGo/?sctv4
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv4-ae779f7e
+# https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv4-ae779f7e
 # https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://i.ibb.co/HpgQgB5/logo26072108-sctv6-hd.png", SCTV6
 https://hoiquan.dpdns.org/VTVGo/?sctv6
@@ -28,7 +28,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv8
 https://hoiquan.dpdns.org/VTVGo/?sctv9
 #EXTINF:-1 tvg-id="SCTV10.vn" tvg-name="SCTV10" tvg-logo="https://i.imgur.com/TQF3Wf2.png", SCTV10 ✅
 https://hoiquan.dpdns.org/VTVGo/?sctv10
-https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8
+# https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png", SCTV11
 # https://liveh34.vtvprime.vn/hls/SCTV11/index.m3u8
 https://hoiquan.dpdns.org/VTVGo/?sctv11
@@ -185,7 +185,7 @@ https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=1
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/AgamSNe.png", VTV7
 https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png", VTV8
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png", VTV9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
