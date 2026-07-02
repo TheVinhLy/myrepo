@@ -9,7 +9,9 @@ https://github.com/HaNoiIPTV/HaNoiIPTV.m3u
 https://github.com/huybuonvp/
 https://github.com/KevinNitroG/Public-Stuff
 https://github.com/KevinNitroG/Public-Stuff/blob/main/Watch%20TV%20apps/README.md
---- get link fshare, phan mem
+https://github.com/thaichieucm92/MyTV/blob/main/MyTVnew
+https://github.com/huybuonvp/lstv/blob/main/lstv.m3u
+--- get link fshare, phan mem, ...
 https://github.com/KevinNitroG/Public-Stuff/blob/main/README.md
 ---
 https://github.com/vietng228/ximaotv
@@ -26,6 +28,9 @@ v n p t: https://tiny.cc/udpvnpt
 f p t: https://tiny.cc/udpfpt
 v i e t e l: https://tiny.cc/udpviettel
 -----------------
+--- Các phần mềm
+https://github.com/KevinNitroG/Public-Stuff/blob/main/README.md
+
 --- Microsoft-Activation-Scripts
 https://github.com/massgravel/Microsoft-Activation-Scripts/releases
 https://massgrave.dev/
@@ -51,7 +56,7 @@ MAS_AIO.cmd (Direct script)
 MAS_AIO.zip (If the direct script is blocked by your browser)
 Run the MAS_AIO.cmd file.
 In the menu that appears, type the number corresponding to one of the Green options.
---------------- Cài và Activate Office
+--------------- Cài Office
 https://github.com/YerongAI/Office-Tool
 https://raw.githubusercontent.com/KevinNitroG/Public-Stuff/main/Active_Windows_Office_Tools/Office%202013-2021%20C2R%20Install%20v7.4.2.rar
 --------- soft backup bản quyền
